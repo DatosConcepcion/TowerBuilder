@@ -23,8 +23,8 @@ description: >-
   TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
 
 # URL of your contracts file or API endpoint
-#contracts_url: "/assets/data/contracts.csv"
-contracts_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ879rceqABwi7D-yDlZYSfwn0MtogulCh1GKVQPGFoQxqRYOjrzoREAX1JoYmB3KCHsQdcZWReh9ik/pub?gid=0&single=true&output=csv"
+contracts_url: "/assets/data/contracts.csv"
+#contracts_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ879rceqABwi7D-yDlZYSfwn0MtogulCh1GKVQPGFoQxqRYOjrzoREAX1JoYmB3KCHsQdcZWReh9ik/pub?gid=0&single=true&output=csv"
 
 
 # URL of your beneficial ownership file or API endpoint
