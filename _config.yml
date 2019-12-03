@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tower Builder
+title: Datos Concepción
 
 # Logo image
 image: tb-logo.png
@@ -60,7 +60,7 @@ graph:
   - contracts_format: "csv"
 
 # Customize the More information menu button title
-menu_button_title: More information
+menu_button_title: Más información
 
 # Customize the titles and placeholder inputs in Contracts page
 contracts_title: Contratos por empresas
@@ -75,15 +75,15 @@ type_contract_all_option: Todos
 type_procedure_title: Tipo de procedimiento
 type_procedure_title_tooltip: La licitación pública es según la ley mexicana el procedimiento adecuado para contratar obra publica. Excepcionalmente también se pueden realizar otro tipo de procedimientos como adjudicación directa, convenio e invitación a cuando menos tres proveedores.
 type_procedure_all_option: Todos
-date_range_title: Date range
+date_range_title: Rango de fechas
 date_range_from_placeholder: Desde
 date_range_to_placeholder: hasta
 date_range_title_tooltip: Find active contracts between two dates.
 filter_footnote_title: Apply filters on contracts with companies.
 # Customize the Contract table titles
-column_1: Companies
-column_2: No. of contracts
-column_3: Total amount
+column_1: Empresas
+column_2: N° de contratos
+column_3: Monto total
 
 # Build settings
 plugins:
